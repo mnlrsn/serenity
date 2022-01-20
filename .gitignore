@@ -30,3 +30,5 @@ sync-local.sh
 
 Userland/Libraries/LibWasm/Tests/Fixtures/SpecTests
 Userland/Libraries/LibWasm/Tests/Spec
+
+*.ignore
